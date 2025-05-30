@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet6\\apinet6\\services\\usuario\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|solutionrelative:apinet6\\services\\usuario\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet6\\apinet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|solutionrelative:apinet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet6\\apinet6\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|solutionrelative:apinet6\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet6\\apinet6\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet6\\ApiNet6.csproj|solutionrelative:apinet6\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Program.cs",
+              "RelativeDocumentMoniker": "ApiNet6\\Program.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Program.cs",
+              "RelativeToolTip": "ApiNet6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:04:43.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiNet6\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiNet6\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:48:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUsuarioInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Services\\Usuario\\IUsuarioInterface.cs",
+              "RelativeDocumentMoniker": "ApiNet6\\Services\\Usuario\\IUsuarioInterface.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Services\\Usuario\\IUsuarioInterface.cs",
+              "RelativeToolTip": "ApiNet6\\Services\\Usuario\\IUsuarioInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:47:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Services\\Usuario\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "ApiNet6\\Services\\Usuario\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet6\\ApiNet6\\Services\\Usuario\\UsuarioService.cs",
+              "RelativeToolTip": "ApiNet6\\Services\\Usuario\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:45:40.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

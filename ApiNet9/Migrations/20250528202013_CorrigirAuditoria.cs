@@ -1,0 +1,64 @@
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace ApiNet9.Migrations
+{
+    /// <inheritdoc />
+    public partial class CorrigirAuditoria : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropPrimaryKey(
+                name: "PK_UsuarioModel",
+                table: "UsuarioModel");
+
+            migrationBuilder.RenameTable(
+                name: "UsuarioModel",
+                newName: "Usuarios");
+
+            migrationBuilder.AddPrimaryKey(
+                name: "PK_Usuarios",
+                table: "Usuarios",
+                column: "Id");
+
+            migrationBuilder.CreateTable(
+                name: "Auditorias",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Acao = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Data = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    UsuarioId = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DadosAlterados = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Auditorias", x => x.Id);
+                });
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropTable(
+                name: "Auditorias");
+
+            migrationBuilder.DropPrimaryKey(
+                name: "PK_Usuarios",
+                table: "Usuarios");
+
+            migrationBuilder.RenameTable(
+                name: "Usuarios",
+                newName: "UsuarioModel");
+
+            migrationBuilder.AddPrimaryKey(
+                name: "PK_UsuarioModel",
+                table: "UsuarioModel",
+                column: "Id");
+        }
+    }
+}
