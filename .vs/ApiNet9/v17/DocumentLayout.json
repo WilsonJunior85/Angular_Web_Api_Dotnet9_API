@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|solutionrelative:apinet9\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet9\\apinet9\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|solutionrelative:apinet9\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet9\\apinet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|solutionrelative:apinet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet9\\apinet9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|solutionrelative:apinet9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet9\\apinet9\\models\\auditoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|solutionrelative:apinet9\\models\\auditoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01551C1D-EFB0-4880-9727-7FEC61798CFD}|ApiNet9\\ApiNet9.csproj|c:\\users\\superadmin\\documents\\cursos\\apinet9\\apinet9\\services\\auditoria\\auditoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AuditoriaService.cs",
               "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Services\\Auditoria\\AuditoriaService.cs",
               "RelativeDocumentMoniker": "ApiNet9\\Services\\Auditoria\\AuditoriaService.cs",
@@ -35,8 +47,7 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T20:33:53.503Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -45,15 +56,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Program.cs",
-              "RelativeDocumentMoniker": "ApiNet9\\Program.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Program.cs",
-              "RelativeToolTip": "ApiNet9\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiNet9\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiNet9\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T20:59:10.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:03:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiNet9\\appsettings.json",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\appsettings.json",
+              "RelativeToolTip": "ApiNet9\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T17:17:40.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditoriaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Models\\AuditoriaModel.cs",
+              "RelativeDocumentMoniker": "ApiNet9\\Models\\AuditoriaModel.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Models\\AuditoriaModel.cs",
+              "RelativeToolTip": "ApiNet9\\Models\\AuditoriaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:29:33.906Z"
             },
             {
               "$type": "Document",
@@ -63,10 +97,22 @@
               "RelativeDocumentMoniker": "ApiNet9\\Services\\Usuario\\UsuarioService.cs",
               "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Services\\Usuario\\UsuarioService.cs",
               "RelativeToolTip": "ApiNet9\\Services\\Usuario\\UsuarioService.cs",
-              "ViewState": "AgIAAPUAAAAAAAAAAAAywAcBAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T20:51:41.637Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Program.cs",
+              "RelativeDocumentMoniker": "ApiNet9\\Program.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\ApiNet9\\ApiNet9\\Program.cs",
+              "RelativeToolTip": "ApiNet9\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:59:10.866Z"
             }
           ]
         }

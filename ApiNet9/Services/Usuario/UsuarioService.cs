@@ -250,6 +250,7 @@ namespace ApiNet9.Services.Usuario
                 await _context.SaveChangesAsync();
 
                 result.Mensagem = $"Usuário {usuario.Nome} removido com sucesso!";
+                result.Data = usuario;
 
 
 
@@ -261,7 +262,7 @@ namespace ApiNet9.Services.Usuario
                 //Pegar o usuario id
                 var usuarioId = _httpContextAccessor.HttpContext.User.Claims.FirstOrDefault(c => c.Type == "UserId")?.Value;
 
-                await _auditoriaInterface.RegistrarAuditoriaAsync("Remoção", usuarioId, $"Antes: {dadosAntes}");
+                //await _auditoriaInterface.RegistrarAuditoriaAsync("Remoção", usuarioId, $"Antes: {dadosAntes}");
 
 
 

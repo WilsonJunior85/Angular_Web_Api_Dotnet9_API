@@ -162,3 +162,4 @@ C:\Users\Superadmin\Documents\CURSOS\ApiNet9\ApiNet9\obj\Debug\net9.0\ApiNet9.ge
 C:\Users\Superadmin\Documents\CURSOS\ApiNet9\ApiNet9\obj\Debug\net9.0\ref\ApiNet9.dll
 C:\Users\Superadmin\Documents\CURSOS\ApiNet9\ApiNet9\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Superadmin\Documents\CURSOS\ApiNet9\ApiNet9\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Superadmin\Documents\CURSOS\ApiNet9\ApiNet9\obj\Debug\net9.0\ApiNet9.sourcelink.json
