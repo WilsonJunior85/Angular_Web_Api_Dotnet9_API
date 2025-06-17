@@ -262,7 +262,7 @@ namespace ApiNet9.Services.Usuario
                 //Pegar o usuario id
                 var usuarioId = _httpContextAccessor.HttpContext.User.Claims.FirstOrDefault(c => c.Type == "UserId")?.Value;
 
-                //await _auditoriaInterface.RegistrarAuditoriaAsync("Remoção", usuarioId, $"Antes: {dadosAntes}");
+                await _auditoriaInterface.RegistrarAuditoriaAsync("Remoção", usuarioId, $"Antes: {dadosAntes}");
 
 
 
@@ -297,4 +297,3 @@ namespace ApiNet9.Services.Usuario
         } 
     }
 }
-//teste
